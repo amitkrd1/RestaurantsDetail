@@ -29,8 +29,8 @@ public class MainActivity extends AppCompatActivity {
     RequestQueue queue;
     RecyclerView rv;
     RecyclerView.Adapter adapter;
-
-
+////////////////////
+////indiagdgdggrgrederer
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
